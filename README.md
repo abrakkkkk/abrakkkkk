@@ -1,6 +1,6 @@
 # Olá! Eu sou Abrahão Levy 👨‍💻
 
-Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFOR** e tenho uma grande paixão por **tecnologia e programação**. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades, com foco em **desenvolvimento web**.
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFOR** e tenho uma grande paixão por **tecnologia e programação**. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades, com foco em **desenvolvimento web**.
 
 ---
 
