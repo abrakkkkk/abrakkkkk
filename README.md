@@ -31,12 +31,6 @@ Estou aberto a **estágios**, **freelances** ou **colaborações** em projetos q
 ---
 
 ## 🌱 Projetos
-
-Aqui estão alguns dos projetos que estou desenvolvendo ou já desenvolvi:
-
-- **[Projeto 1](link-do-projeto)**: Uma breve descrição do projeto e as tecnologias utilizadas.
-- **[Projeto 2](link-do-projeto)**: Uma breve descrição do projeto e as tecnologias utilizadas.
-
 ---
 
 ## 📞 Chama aí!
