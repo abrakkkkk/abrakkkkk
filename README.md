@@ -36,9 +36,9 @@
 
 ## 🌱 Principais Projetos
 
-*   **[Dashboards]**: Dashboards profissionais desenvolvidos para análise estratégica de dados, integrando **Power BI** e **PostgreSQL** para visualização de grandes volumes de informação em tempo real.
+*   **[Dashboards](#)**: Dashboards profissionais desenvolvidos para análise estratégica de dados, integrando **Power BI** e **PostgreSQL** para visualização de grandes volumes de informação em tempo real.
 
-*   **[Estudaê]**: Aplicação web focada em educação, desenvolvida durante a graduação com stack moderna:
+*   **[Estudaê](#)**: Aplicação web focada em educação, desenvolvida durante a graduação com stack moderna:
     <p align="left">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -52,8 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abrakkkkk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrakkkkk&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=abrakkkkk&theme=tokyonight&locale=pt_BR&cache_seconds=1800" />
 </p>
 
 ---
