@@ -1,41 +1,64 @@
 # Olá! Eu sou Abrahão Levy 👨‍💻
-
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFOR** e tenho uma grande paixão por **tecnologia e programação**. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades, com foco em **desenvolvimento web**.
+**Bacharel em Análise e Desenvolvimento de Sistemas (UNIFOR)**. Atualmente, foco minha carreira na intersecção entre **Engenharia de Dados** e **Análise de Dados**, transformando grandes volumes de informação em decisões estratégicas.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Stack & Ferramentas
 
-Meus principais conhecimentos incluem:
+### **Data Intelligence & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pentaho_ETL-004B8D?style=for-the-badge&logo=pentaho&logoColor=white" alt="Pentaho" />
+</p>
 
-<p align="center">
+### **Development & Environment**
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
 ---
 
-## 🎯 O que estou buscando
+## 🎯 Foco Atual
 
-Atualmente, estou em busca de **novos desafios** para:
-
-- Aprimorar minhas habilidades em **desenvolvimento full-stack**.
-- Colaborar com projetos inovadores e dinâmicos.
-- Trabalhar em equipe e aprender com profissionais experientes.
-
-Estou aberto a **estágios**, **freelances** ou **colaborações** em projetos que me permitam crescer como desenvolvedor.
+*   **Data Science:** Desenvolvimento de modelos preditivos e análise estatística.
+*   **Database Modeling:** Modelagem relacional avançada e normalização (1FN, 2FN, 3FN).
+*   **ETL Processes:** Automação de pipelines de dados com Pentaho e Python.
+*   **Cybersecurity:** Estudos aplicados à segurança de dados e redes (Hackers do Bem).
 
 ---
 
-## 🌱 Projetos
+## 🌱 Principais Projetos
+
+*   **[Dashboards]**: Dashboards profissionais desenvolvidos para análise estratégica de dados, integrando **Power BI** e **PostgreSQL** para visualização de grandes volumes de informação em tempo real.
+
+*   **[Estudaê]**: Aplicação web focada em educação, desenvolvida durante a graduação com stack moderna:
+    <p align="left">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js_v18+-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL_v14+-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abrakkkkk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrakkkkk&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📞 Chama aí!
-
-Você pode me encontrar em diversas plataformas para trocarmos ideias ou discutir novas oportunidades:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrahao-levy-04b85125b/">
@@ -48,4 +71,3 @@ Você pode me encontrar em diversas plataformas para trocarmos ideias ou discuti
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
