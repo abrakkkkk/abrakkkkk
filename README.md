@@ -52,9 +52,7 @@ Aplicação mobile voltada para educação, desenvolvida durante a graduação.
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrakkkkk&show_icons=true&theme=tokyonight&hide_border=true&locale=pt_BR&v=1)](https://github.com/abrakkkkk)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrakkkkk&layout=compact&theme=tokyonight&hide_border=true&locale=pt_BR&v=1)](https://github.com/abrakkkkk)
+![GitHub Metrics](github-metrics.svg)
 
 <br>
 
