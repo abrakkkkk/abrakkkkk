@@ -1,72 +1,65 @@
-# Olá! Eu sou Abrahão Levy 👨‍💻
-**Bacharel em Análise e Desenvolvimento de Sistemas (UNIFOR)**. Atualmente, foco minha carreira na intersecção entre **Engenharia de Dados** e **Análise de Dados**, transformando grandes volumes de informação em decisões estratégicas.
+# Abrahão Levy
 
----
+**Bacharel em Análise e Desenvolvimento de Sistemas — UNIFOR**
 
-## 🚀 Stack & Ferramentas
+Atuo na intersecção entre Engenharia de Dados e Análise de Dados, transformando grandes volumes de informação em decisões estratégicas.
 
-### **Data Intelligence & Analytics**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pentaho_ETL-004B8D?style=for-the-badge&logo=pentaho&logoColor=white" alt="Pentaho" />
-</p>
+<br>
 
-### **Development & Environment**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
+## Stack
 
----
+**Dados & Analytics**
 
-## 🎯 Foco Atual
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Pentaho-004B8D?style=flat-square&logo=pentaho&logoColor=white" alt="Pentaho" />
 
-*   **Data Science:** Desenvolvimento de modelos preditivos e análise estatística.
-*   **Database Modeling:** Modelagem relacional avançada e normalização (1FN, 2FN, 3FN).
-*   **ETL Processes:** Automação de pipelines de dados com Pentaho e Python.
-*   **Cybersecurity:** Estudos aplicados à segurança de dados e redes (Hackers do Bem).
+**Desenvolvimento**
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/SQL-CC0000?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
-## 🌱 Principais Projetos
+<br>
 
-*   **[Dashboards](#)**: Dashboards profissionais desenvolvidos para análise estratégica de dados, integrando **Power BI** e **PostgreSQL** para visualização de grandes volumes de informação em tempo real.
+## Foco atual
 
-*   **[Estudaê](#)**: Aplicação web focada em educação, desenvolvida durante a graduação com stack moderna:
-    <p align="left">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js_v18+-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL_v14+-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    </p>
+- Data Science — modelos preditivos e análise estatística
+- Modelagem de dados — modelagem relacional e normalização (1FN, 2FN, 3FN)
+- ETL — automação de pipelines com Pentaho e Python
+- Segurança da informação — estudos aplicados a dados e redes (Hackers do Bem)
 
----
+<br>
 
-## 📊 GitHub Stats
+## Projetos
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrakkkkk&theme=tokyonight&locale=pt_BR&cache_seconds=1800" />
-</p>
+**Dashboards de Business Intelligence**
+Painéis para análise estratégica, integrando Power BI, Streamlit e PostgreSQL para visualização de dados em tempo real.
+<!-- LINK: adicionar aqui -->
+[repositório](#)
 
----
+**Estudaê**
+Aplicação web voltada para educação, desenvolvida durante a graduação.
+`React` · `TypeScript` · `Vite` · `Node.js` · `PostgreSQL`
+<!-- LINK: adicionar aqui -->
+[repositório](#)
 
-## 📞 Chama aí!
+<br>
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abrahao-levy-04b85125b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/abrakkkkk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:abrahaolevyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abrakkkkk&show_icons=true&theme=tokyonight&hide_border=true&locale=pt_BR&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrakkkkk&layout=compact&theme=tokyonight&hide_border=true&locale=pt_BR&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
+
+<br>
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/abrahao-levy-04b85125b/) · [GitHub](https://github.com/abrakkkkk) · [Email](mailto:abrahaolevyy@gmail.com)
