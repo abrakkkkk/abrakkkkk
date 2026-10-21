@@ -76,6 +76,6 @@ Painel interativo para monitoramento comercial e análise exploratória de venda
 
 ### 📊 Métricas do GitHub
 
-<p align="center">
-  <img src="github-metrics.svg" alt="Métricas do GitHub" width="420" />
+<p align="left">
+  <img src="github-metrics.svg" alt="Métricas do GitHub" width="520" />
 </p>
