@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou o Abrahão Levy 👋</h1>
 
 <p align="center">
-  <b>Bacharel em Análise e Desenvolvimento de Sistemas (UNIFOR)</b><br>
-  Desenvolvedor Full Stack & Entusiasta de Engenharia de Dados e Inteligência Artificial.
+  <b>Engenheiro de Software na Freelancer Discos</b><br>
+  Desenvolvedor Full Stack · Dados · Inteligência Artificial
 </p>
 
 <p align="center">
@@ -23,7 +23,9 @@
 
 ### 💡 Sobre mim
 
-Profissional focado na construção de sistemas web modernos e escaláveis, unindo front-ends responsivos a arquiteturas de dados relacionais e integrações com inteligência artificial aplicada (visão computacional e OCR).
+Sou engenheiro de software na **Freelancer Discos**, loja de discos de vinil em Fortaleza, onde desenvolvo o sistema de estoque e a vitrine digital da loja. Construo aplicações web com Next.js e Supabase e integro inteligência artificial aplicada, como visão computacional e OCR.
+
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFOR, com formação complementar em Data Analytics. Comecei a carreira no suporte de TI e também trabalho com dados: SQL, Python, ETL e Power BI.
 
 ---
 
@@ -31,7 +33,7 @@ Profissional focado na construção de sistemas web modernos e escaláveis, unin
 
 #### Aplicações & Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -40,6 +42,7 @@ Profissional focado na construção de sistemas web modernos e escaláveis, unin
 
 #### Dados & Backend
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -74,7 +77,7 @@ Painel interativo para monitoramento comercial e análise exploratória de venda
 
 ---
 
-### 📊 Métricas do GitHub
+### 📈 Métricas do GitHub
 
 <p align="left">
   <img src="github-metrics.svg" alt="Métricas do GitHub" width="520" />
